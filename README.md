@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # 👋 Hi, I'm Nirankar Vichare
@@ -6,10 +5,10 @@
 ### 🚀 AI/ML Enthusiast | 💻 Developer | 🌱 Open Source Learner
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Welcome+to+my+GitHub+Profile!;AI+%26+Machine+Learning+Enthusiast;Frontend+Developer;Flutter+Learner;Future+Open+Source+Contributor;Building+Projects+One+Line+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&height=50&lines=Welcome+to+my+GitHub+Profile!;AI+%26+Machine+Learning+Enthusiast;Frontend+Developer;Flutter+Learner;Future+Open+Source+Contributor;Building+Projects+One+Line+at+a+Time" alt="Typing SVG"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=nirankar2527&label=Profile+Views&style=for-the-badge&color=0e75b6" />
+<img src="https://komarev.com/ghpvc/?username=nirankar2527&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -63,7 +62,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,flutter,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,flutter,git,github,linux,vscode" />
 
 </div>
 
@@ -101,30 +100,24 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Nirankar2527/Nirankar2527/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
 
 <a href="mailto:nirankar.v1819@gmail.com">
-<img src="https://img.shields.io/badge/✉️_Email_Me-FF4B5C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/✉️_Email_Me-ff4b5c?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/Nirankar2527">
-<img src="https://img.shields.io/badge/💻_GitHub_Profile-00C2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/💻_GitHub_Profile-00c2ff?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://github.com/Nirankar2527?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_My_Projects-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/🚀_My_Projects-8a2be2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -135,7 +128,7 @@
 
 <div align="center">
 
-### "The best way to learn programming is by building things."
+### *"The best way to learn programming is by building things."*
 
 </div>
 
@@ -148,4 +141,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
-```
